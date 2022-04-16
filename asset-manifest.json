@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tali-volf-14-04-2022/static/css/main.073c9b0a.css",
+    "main.js": "/tali-volf-14-04-2022/static/js/main.2e2f0442.js",
+    "static/media/snow.svg": "/tali-volf-14-04-2022/static/media/snow.49503839987ee4434cf0f7e7ecce7052.svg",
+    "static/media/cloud-sun.svg": "/tali-volf-14-04-2022/static/media/cloud-sun.41de9ce84019a41aac3141ef198fad96.svg",
+    "static/media/cloud-bolt.svg": "/tali-volf-14-04-2022/static/media/cloud-bolt.81c6a29f70be09fd2f23a52e86402fb0.svg",
+    "static/media/cloud-moon.svg": "/tali-volf-14-04-2022/static/media/cloud-moon.6fa7315d98b2859c2eeffb5859aa4a28.svg",
+    "static/media/sun.svg": "/tali-volf-14-04-2022/static/media/sun.4f202eaec73ceeb5c2612e3fd0bcc567.svg",
+    "static/media/temperature-high.svg": "/tali-volf-14-04-2022/static/media/temperature-high.b83f25543dc9aec2635aefb6634e7780.svg",
+    "static/media/temperature-low.svg": "/tali-volf-14-04-2022/static/media/temperature-low.43cb272489e3c8dcedb11f5d7987f018.svg",
+    "static/media/cloud-rain.svg": "/tali-volf-14-04-2022/static/media/cloud-rain.a4dc4d6adfb834e61fe434a0d44ced3c.svg",
+    "static/media/wind.svg": "/tali-volf-14-04-2022/static/media/wind.e08d1f497dd7d35d9409422b45125a5d.svg",
+    "index.html": "/tali-volf-14-04-2022/index.html",
+    "static/media/cloud.svg": "/tali-volf-14-04-2022/static/media/cloud.f2655587d2fb0584662b52645f164065.svg",
+    "static/media/moon.svg": "/tali-volf-14-04-2022/static/media/moon.24663276c05fe9e5c5d44c7b22966454.svg",
+    "main.073c9b0a.css.map": "/tali-volf-14-04-2022/static/css/main.073c9b0a.css.map",
+    "main.2e2f0442.js.map": "/tali-volf-14-04-2022/static/js/main.2e2f0442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e2f0442.js"
+  ]
+}
