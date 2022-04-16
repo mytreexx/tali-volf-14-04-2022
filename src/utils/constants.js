@@ -1,6 +1,6 @@
 export const API_KEY = process.env.REACT_APP_API_KEY
 
-export const BASE_URL = 'http://dataservice.accuweather.com'
+export const BASE_URL = 'https://dataservice.accuweather.com'
 
 export const ENDPOINTS = {
     LOCATIONS: 'locations/v1/cities/autocomplete',
