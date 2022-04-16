@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tali-volf-14-04-2022/static/css/main.073c9b0a.css",
-    "main.js": "/tali-volf-14-04-2022/static/js/main.80988c24.js",
+    "main.js": "/tali-volf-14-04-2022/static/js/main.3f0e4863.js",
     "static/media/snow.svg": "/tali-volf-14-04-2022/static/media/snow.49503839987ee4434cf0f7e7ecce7052.svg",
     "static/media/cloud-sun.svg": "/tali-volf-14-04-2022/static/media/cloud-sun.41de9ce84019a41aac3141ef198fad96.svg",
     "static/media/cloud-bolt.svg": "/tali-volf-14-04-2022/static/media/cloud-bolt.81c6a29f70be09fd2f23a52e86402fb0.svg",
@@ -15,10 +15,10 @@
     "static/media/cloud.svg": "/tali-volf-14-04-2022/static/media/cloud.f2655587d2fb0584662b52645f164065.svg",
     "static/media/moon.svg": "/tali-volf-14-04-2022/static/media/moon.24663276c05fe9e5c5d44c7b22966454.svg",
     "main.073c9b0a.css.map": "/tali-volf-14-04-2022/static/css/main.073c9b0a.css.map",
-    "main.80988c24.js.map": "/tali-volf-14-04-2022/static/js/main.80988c24.js.map"
+    "main.3f0e4863.js.map": "/tali-volf-14-04-2022/static/js/main.3f0e4863.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.80988c24.js"
+    "static/js/main.3f0e4863.js"
   ]
 }
